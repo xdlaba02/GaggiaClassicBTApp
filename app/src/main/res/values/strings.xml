@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gaggia Classic BT</string>
+    <string name="setTargetTemp">Set Target</string>
+    <string name="setPIDParams">Set PID</string>
+    <string name="runAutotune">PID Autotune</string>
+    <string name="tempLabel">Temperature: </string>
+    <string name="outputLabel">PID Output: </string>
+</resources>
